@@ -1,0 +1,2 @@
+# 1-1-2020-TASK-1
+Design a login form with user name and password as text fields. 2. Create a login button. 3. When the user clicks on login button login form need to perfom following validations 3.1)User name and password should not be empty. 3.2)User name and password need to have minimum length of 8 characters. 3.3)If the user name and password are equal then you need to display a message welcome with user name
